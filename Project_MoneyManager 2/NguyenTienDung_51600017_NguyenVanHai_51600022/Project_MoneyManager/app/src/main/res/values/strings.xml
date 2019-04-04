@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Project_MoneyManager</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/design_bottom_sheet1" android:title="Khoảng thu" android:icon="@drawable/ic_action_dola"/>
+    <item android:id="@+id/design_bottom_sheet2" android:title="Khoản chi" android:icon="@drawable/ic_action_dola1"/>
+    <item android:id="@+id/design_bottom_sheet3" android:title="Xu hướng" android:icon="@drawable/ic_action_xuhuong"/>
+    <item android:id="@+id/design_bottom_sheet4" android:title="Giới thiệu" android:icon="@drawable/ic_action_gioithieu"/>
+    <item android:id="@+id/design_bottom_sheet5" android:title="Thoát" android:icon="@drawable/ic_action_logout"/>
+</menu>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="170sp"
+    android:orientation="vertical"
+    android:background="@android:color/holo_orange_light"
+    android:padding="20dp"
+    >
+    <ImageView
+        android:src="@drawable/anh"
+        android:layout_width="75sp"
+        android:layout_height="75sp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dung - Hai"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:layout_marginTop="5sp"
+        android:textColor="@android:color/white"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ATGamingstore@gmail.com"
+        android:textStyle="bold"
+        android:textSize="18dp"
+        android:textColor="@android:color/white"
+        />
+</LinearLayout>

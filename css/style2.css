@@ -1,0 +1,96 @@
+.DatHang{
+	display:inline-block;
+}
+.customerInfo{
+	border:1px solid #CCC;
+	width:685px;
+	margin:10px;
+	margin-left:20px;
+	float:left;
+}
+.CostCustomer{
+	border:1px solid #CCC;
+	width:600px;
+	margin-top:10px;
+	margin-right:20px;
+	float:right;
+}
+.title-customerInfo{
+	margin:30px;
+}
+.title-customerInfo{
+	font-size:20px;
+	font-weight:bold;
+}
+.title-customerInfo a{
+	text-decoration:none;
+}
+.input-customerInfo{
+	margin:35px;
+	margin-left:100px;
+}
+.input-customerInfo input{
+	margin-top:25px;
+	width:500px;
+	height:50px;
+	padding-left:10px;
+	border-radius:3px;
+}
+.input-customerInfo select{
+	margin-top:15px;
+	width:200px;
+	height:50px;
+}
+.input-customerInfo #note{
+	width:500px;
+	height:120px;
+}
+.submit-customerInfo {
+	margin-top:50px;
+}
+.submit-customerInfo a{
+	margin-top:80px;
+	margin-left:40px;
+	font-size:18px;
+	font-weight:bold;
+}
+.submit-customerInfo input{
+	margin-left:180px;
+	width:200px;
+	height:70px;
+	font-size:18px;
+	font-weight:bold;
+	background-color:#F93;
+	border-radius:10px;
+}
+.submit-customerInfo input:hover{
+	background-color:#FC0;
+}
+.TitleCostCustomer h3{
+	font-size:35px;
+	text-align:center;
+	margin-top:10px;
+	margin-bottom:80px;
+	color:#F00;
+	font-weight:bold;
+}
+.CostCustomer img{
+	width:50px;
+	height:50px;
+}
+.CostCustomer{
+	padding:15px;
+}
+.CostCustomer span{
+	font-size:15px;
+	font-weight:bold;
+}
+.CostCustomerSP{
+	margin-bottom:40px;	
+}
+.AllCostCustomer h3{
+	margin-left:180px;
+	margin-top:40px;
+	margin-bottom:40px;
+	font-weight:bold;	
+}
